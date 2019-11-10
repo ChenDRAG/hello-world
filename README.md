@@ -1,10 +1,7 @@
-# 人工智能大作业——七巧板拼图
-本项目实现七巧板和十三巧版搜索算法并配有图像化界面。本文档包括对各个源码文件功能介绍与UI程序的使用介绍。
+# 数值分析大作业——图像变形处理
+本项目目标是编写程序对人脸图像进行扭曲变形，以及图像的扭曲与畸变变换。项目使用C++/Qt5.12.4/OpenCV4在VS2019上配置编译（MSVC_2017_x64）。
 ## 可执行文件及UI界面
-UI界面的执行需要在Linux系统中使用，在/windows/dist文件夹中也有windows版的exe的文件但由于某种元件该文件排版上出现问题（预计是由于不同系统导致） 
-因为在windows系统上我们建议使用 
-    $ python3 mainUI.py  
-    
+UI界面的执行需要在Windows64位系统中使用，可以打开\face_strech_ui\x64\Release\Face_Strech_UI.exe进行使用。
 <img src="https://github.com/ChenDRAG/hello-world/blob/master/Screenshot%20from%202019-10-20%2000-37-10.png?raw=true" width=600 alt="UI">  
 
 - 游戏模式提供7或13两种选择
