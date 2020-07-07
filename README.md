@@ -1,4 +1,4 @@
-# Track2 净土保卫战
+# Track2 净土保卫战 test pull
 
 ![image](./1.png)
 <center> 自动化系学生科协</center>
