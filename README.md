@@ -56,3 +56,16 @@
 ## 详细规则
 
 请选手加入[FC17门户网站](http://140.143.170.135:3000/#/)下载选手包获取详细比赛资源。
+
+
+| task                        | best reward | reward curve (statistics after 1M steps are not used)                        | time cost           |
+| --------------------------- | ----------- | ------------------------------------- | ------------------------------------------------------------ | ------------------- |
+| HalfCheetah-v3          | 8013          | ![](results/td3/HalfCheetah_rew.png)         | ~3.5h  |
+| Hopper-v3      | 3281         | ![](results/td3/Hopper_rew.png)     | ~3.5h     |
+| Walker2d-v3        | 3668         | ![](results/td3/Walker2d_rew.png)       | ~3.5h    |
+| Ant-v3         | 5727        | ![](results/td3/Ant_rew.png)        | ~4h    |
+| Humanoid-v3      | 5149        | ![](./Humanoid_rew.svg)     | ~4.5h   |
+| InvertedPendulum-v2      | 2088        | ![](results/td3/InvertedPendulum_rew.png)     | ~3.5h    |
+| InvertedDoublePendulum-v2      | 2088        | ![](results/td3/InvertedDoublePendulum.png)     | ~3.5h    |
+| Reacher-v2 | 812.2       | ![](results/td3/Reacher_rew.png) | ~3.5h    |
+
